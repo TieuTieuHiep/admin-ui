@@ -1,0 +1,7 @@
+name: pegasus-ui
+kubernetes:
+  imagePullPolicy: Always
+showComponentErrorsBottomPanel: true
+image:
+  name: registry.gitlab.com/vuduc047/pegasus-admin-ui
+  tag: latest

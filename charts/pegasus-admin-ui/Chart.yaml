@@ -1,0 +1,5 @@
+apiVersion: v2
+name: pegasus-admin-ui
+description: Pegasus Admin Ui
+type: application
+version: 0.1.0
